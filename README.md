@@ -1,0 +1,2 @@
+# Houdini-PCG-Environment-Generator
+基于Houdini制作的程序化生成山谷模型摆放的HDA工具。通过HeightField结合Mask创建地形与layer，根据自然环境模拟植被撒点，将得到的包含位置点云数据与模型实例输入的HDA导入UE4，可生成能够实时调节的大世界野外地形环境。
